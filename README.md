@@ -1,0 +1,1 @@
+# model_for_optimizing_the_production_of_a_gold_mining_company
